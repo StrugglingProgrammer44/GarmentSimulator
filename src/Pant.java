@@ -1,0 +1,3 @@
+interface Pant {
+    void wear();
+}
